@@ -1,3 +1,3 @@
 # DartLanding
 
-https://github.com/GunnerSaurusBJJ/DartLanding/deployments
+https://gunnersaurusbjj.github.io/DartLanding/
